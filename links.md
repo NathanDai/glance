@@ -4,26 +4,18 @@ title: Friends
 links: 
     data:
         link_0: 
-            name: Alice's aaaaa aaaaaaaaa aaaaaa aaaaaa aaaaaaaa aaaaaa aaaaawesome website
-            link: https://example.com
-            popover: Welcome!
+            name: VXenomac
+            link: https://xyzlab.ai
+            popover: VXenomac
         link_1: 
-            name: Bob's awesome website
-            link: https://example.com
-            popover: Welcome!
+            name: Coink
+            link: https://coink.wang
+            popover: Coink
         link_2: 
-            name: Colin's blog
-            link: https://example.com
-            popover: Welcome!
-        link_3: 
-            name: Denny's shop
-            link: https://example.com
-            popover: Welcome!
-        link_4: 
-            name: Ellen's music index
-            link: https://example.com
-            popover: Welcome!
-        # link_5: 
+            name: β-house
+            link: https://betahouse.us
+            popover: β-house
+        # link_3: 
 
 
 

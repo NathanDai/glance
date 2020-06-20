@@ -40,6 +40,6 @@ works:
 
 <!-- If you want to customize components => _layouts/about.html -->
 
-Here you can done some description & display your works/photos.
+Well，欢迎光临。
 
-My name is Coink, Contact me at: coinkwang[at]qq[dot]com.
+优秀毕业生一名，Nathan 是我的英文名, 中文可读作奈森。
