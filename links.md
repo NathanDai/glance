@@ -8,7 +8,7 @@ links:
             link: https://xyzlab.ai
             popover: VXenomac
         link_1: 
-            name: Coink
+            name: CoinkWang
             link: https://coink.wang
             popover: Coink
         link_2: 
